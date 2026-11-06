@@ -1,0 +1,7 @@
+{
+  "name": "Mohawk Brasil - Localizações",
+  "description": "Portal oficial de localizações e expedições da Mohawk Brasil com rotas no Google Maps e cópia rápida de endereços.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
