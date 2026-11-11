@@ -26,7 +26,7 @@ export const LOCATIONS_DATA: LocationItem[] = [
     id: 'cocal-cd',
     name: 'EXPEDIÇÃO COCAL DO SUL CD',
     shortName: 'Cocal do Sul CD',
-    address: 'ROD. MAXIMILIANO GAIDZINSKI, CENTRO - 245, COCAL DO SUL - SC, 88845-000',
+    address: 'RUA. MAXIMILIANO GAIDZINSKI, CENTRO - 245, COCAL DO SUL - SC, 88845-000',
     street: 'Rua. Maximiliano Gaidzinski',
     number: '245',
     neighborhood: 'Centro',
