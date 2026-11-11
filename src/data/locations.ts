@@ -34,9 +34,9 @@ export const LOCATIONS_DATA: LocationItem[] = [
     state: 'SC',
     stateName: 'Santa Catarina',
     cep: '88845-000',
-    googleMapsQuery: 'Rod. Maximiliano Gaidzinski, 245, Centro, Cocal do Sul - SC, 88845-000',
+    googleMapsQuery: 'Rua Ambrósio Dallo, 330, Centro, Cocal do Sul - SC, 88845-000',
     googleMapsUrl:'https://www.google.com/maps/search/?api=1&query=Rua+Ambr%C3%B3sio+Dallo%2C+330%2C+Centro%2C+Cocal+do+Sul+-+SC%2C+88845-000',
-    wazeUrl: 'https://waze.com/ul?q=Rod.+Maximiliano+Gaidzinski%2C+245%2C+Cocal+do+Sul',
+    wazeUrl: 'https://waze.com/ul?q=Rua+Ambrosio+Dallo%2C+330%2C+Cocal+do+Sul',
     coordinates: { lat: -28.6019, lng: -49.3283 },
     type: 'CD',
     details: 'Centro de Distribuição principal - Portaria e expedição de cargas pesadas.'
